@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UWPIoTDevice2", "UWPIoTDevice2\UWPIoTDevice2.csproj", "{E9AC5AEC-FB7A-403C-98DC-745545AA1D53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9AC5AEC-FB7A-403C-98DC-745545AA1D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9AC5AEC-FB7A-403C-98DC-745545AA1D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9AC5AEC-FB7A-403C-98DC-745545AA1D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9AC5AEC-FB7A-403C-98DC-745545AA1D53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8
+		SolutionGuid = {6A462288-2CF4-44D1-A646-38280E1BA21E}
+	EndGlobalSection
+EndGlobal
